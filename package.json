@@ -7,6 +7,7 @@
         "express": "4.x",
         "morgan": "1.x",
         "mongojs": "1.x",
-        "body-parser": "1.x"
+        "body-parser": "1.x",
+        "async": "1.x"
     }
 }
