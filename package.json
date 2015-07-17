@@ -1,0 +1,12 @@
+{
+    "name": "dzd",
+    "description": "dong zhi dong - workout, eat, and workout",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "express": "4.x",
+        "morgan": "1.x",
+        "mongojs": "1.x",
+        "body-parser": "1.x"
+    }
+}
